@@ -2,4 +2,4 @@
 
 # ER Model
 
-![ER model](ER model.png)
+![ER model](ERModel.png)
