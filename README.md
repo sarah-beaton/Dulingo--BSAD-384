@@ -7,3 +7,8 @@
 # Relational Model 
 
 ![Relational model](RelationalSchema.png)
+
+# Source Code
+
+(createtable)
+(populate)
