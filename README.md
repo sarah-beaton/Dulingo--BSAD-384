@@ -10,4 +10,5 @@
 
 # Source Code
 
-* [Create Script (DDL](createtable)
+* [Create Script (DDL)](createtable)
+* [Populate Script (DML)](Polpulate)
