@@ -34,7 +34,6 @@ What are the names and levels of all courses?
 ```
 SELECT C.Name AS CourseName, C.Level
 FROM Course AS C;
-
  ```
 
 ### Query 3
