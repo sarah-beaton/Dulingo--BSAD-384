@@ -10,5 +10,4 @@
 
 # Source Code
 
-!(createtable) (createtable)
-!(populate)
+* [Create Script (DDL](createtable)
