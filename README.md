@@ -4,6 +4,6 @@
 
 ![ER model](ERModel.png)
 
-#Relational Model 
+# Relational Model 
 
 ![Relational model](RelationalSchema.png)
